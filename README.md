@@ -13,3 +13,7 @@ https://www.jenkins.io/download/thank-you-downloading-windows-installer-stable
 ## Demo PR Link
 
 https://github.com/hkshitesh/DEMO-PR-T3
+
+## SLIDES DRIVE LINK
+
+https://drive.google.com/drive/folders/1jHTK9YfzaeFqk7TTW6JO7v9QrNPtTn7Z?usp=sharing
